@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/UX504071/Downloads/websocket_testing-main/MultiModuleProject/UI">
+        <classes>
+            <class name="testPackage.mainPackage">
+            </class>
+        </classes>
+    </test>
+</suite>
